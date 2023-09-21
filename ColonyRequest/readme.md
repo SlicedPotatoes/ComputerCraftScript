@@ -11,7 +11,7 @@ Toutes les commandes doivent être effectuées sur un ordinateur de CC: Tweaked.
 ### Installation
 
 ```
-  pastebin get Hu1Gb7d5 script.nfp
+  pastebin get Hu1Gb7d5 script.lua
 ```
 
 Vous devez ensuite connecter l'ordinateur à un "Colony Integrator" d'Advanced Peripherals, à un bloc de stockage et à un réseau Refined Storage grâce à un "RS Bridge" (Advanced Peripherals).
